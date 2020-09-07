@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    font-size: 200%;
+    margin: 100px;
+}
+body{
+    background-image: url("https://miro.medium.com/max/3840/1*kKQj_MsKcr-MSo1itooVYg.jpeg");
+
+}
+h1, h2, h3, h4{
+    font-size: 50px;
+}
+h1:hover, h2:hover, h3:hover, h4:hover{
+    background-color: rgb(89, 141, 38);
+    width: 50%;;
+}
+p{
+    color: cornsilk;
+    font-size: 35px;
+}
+a{
+    font-size: 40px;
+}
