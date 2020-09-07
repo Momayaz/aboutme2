@@ -40,3 +40,13 @@ if(q4=='yes'||q4=='y'){
 }else{
     alert('bad input')
 }
+var q5=prompt('Do you think you are in the right place').toLowerCase()
+if(q5=='yes'||q5=='y'){
+//console.log('i appreciate^^')
+    alert('i appritciate')
+}else if(q5=='no'||q5=='n'){
+//console.log('i appreciate too ^^')
+    alert('i appreciate too ^^')
+}else{
+    alert('bad input')
+}
