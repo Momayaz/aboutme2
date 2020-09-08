@@ -2,16 +2,18 @@ header{
     text-align: center;
     font-size: 200%;
     margin: 100px;
+    color: cornsilk;
+    font-family: cursive;
 }
 body{
-    background-image: url("https://miro.medium.com/max/3840/1*kKQj_MsKcr-MSo1itooVYg.jpeg");
-
+background-image: url('https://downloadwap.com/thumbs2/wallpapers/p2ls/new/34/u5bwn6ys.jpg');
+background-size: cover;
 }
-h1, h2, h3, h4{
+h1, h2, h3, h4,h5{
     font-size: 50px;
 }
 h1:hover, h2:hover, h3:hover, h4:hover{
-    background-color: rgb(89, 141, 38);
+    background-color:white;
     width: 50%;;
 }
 p{
@@ -20,4 +22,11 @@ p{
 }
 a{
     font-size: 40px;
+}
+.fav{
+    font-size: 35px;
+}
+.aboutme{
+    font-size: 35px;
+    color: rgb(97, 97, 255);
 }
