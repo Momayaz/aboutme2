@@ -6,15 +6,15 @@ header{
     font-family: cursive;
 }
 body{
-background-image: url('https://downloadwap.com/thumbs2/wallpapers/p2ls/new/34/u5bwn6ys.jpg');
+background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190622/ourmid/pngtree-fresh-minimalist-decorative-border-background-image_207060.jpg');
 background-size: cover;
 }
 h1, h2, h3, h4,h5{
     font-size: 50px;
 }
 h1:hover, h2:hover, h3:hover, h4:hover{
-    background-color:white;
-    width: 50%;;
+    background-color:rgba(214, 23, 23, 0.774);
+    width: 25%;
 }
 p{
     color: cornsilk;
@@ -23,10 +23,14 @@ p{
 a{
     font-size: 40px;
 }
-.fav{
-    font-size: 35px;
+.fav:hover{
+    background-color: rgb(91, 179, 19);
+    width: 17%;
 }
 .aboutme{
     font-size: 35px;
     color: rgb(97, 97, 255);
+}
+.fav{
+    font-size: 35px;
 }
