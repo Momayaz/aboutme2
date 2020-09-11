@@ -1,36 +1,51 @@
+
 header{
     text-align: center;
-    font-size: 200%;
+    font-size: 50px;
     margin: 100px;
-    color: cornsilk;
-    font-family: cursive;
+    color: rgb(19, 19, 19);
+    font-family:Brush Script MT;
+    font-weight: bolder;
 }
 body{
 background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190622/ourmid/pngtree-fresh-minimalist-decorative-border-background-image_207060.jpg');
 background-size: cover;
 }
-h1, h2, h3, h4,h5{
+h1{
+    text-align: center;
     font-size: 50px;
 }
-h1:hover, h2:hover, h3:hover, h4:hover{
-    background-color:rgba(214, 23, 23, 0.774);
-    width: 25%;
-}
 p{
-    color: cornsilk;
+    color: rgb(0, 0, 0);
     font-size: 35px;
+    margin-left: 76px;
+    margin-right: 74px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 a{
     font-size: 40px;
 }
-.fav:hover{
-    background-color: rgb(91, 179, 19);
-    width: 17%;
-}
 .aboutme{
     font-size: 35px;
-    color: rgb(97, 97, 255);
+    color: rgb(0, 0, 126);
+    margin-left: 76px;
+    font-weight: bold;
 }
 .fav{
     font-size: 35px;
+    text-align:center;
+    list-style-position: inside;
+    margin-bottom: 10px;
+}
+.personalInformation{
+    text-transform: uppercase; 
+    display:block;
+    margin-left: 60px;
+}
+#personalPhoto{
+    width: 10%;
+    margin-right: 90px;
+    margin-top: -155px;
+    float: right;
+    
 }
